@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/8146.3af92789.chunk.js","mappings":"oLACe,SAASA,IACtB,OAAoBC,EAAAA,cAAoB,MAAO,KAAM","sources":["pages/newdata/card/index.tsx"],"sourcesContent":["import React from 'react';\nexport default function Monitor() {\n  return /*#__PURE__*/React.createElement(\"div\", null, \"\\u76D1\\u63A7\\u9875\");\n}"],"names":["Monitor","React"],"sourceRoot":""}
